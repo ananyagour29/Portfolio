@@ -207,33 +207,26 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
     // },
     {
   id: 0,
-  title: "NOTE.IT - Full Stack Blogging Platform",
+  title: "RemedyCare - Full Stack Wellness Platform",
   description:
-    "NOTE.IT is a full-stack MERN blogging platform built with secure admin authentication and a responsive user interface. It features a single-admin dashboard for managing blog posts, publishing content, uploading images, and moderating comments. Visitors can explore published blogs and submit comments without login. The application demonstrates secure JWT authentication, REST API integration, MongoDB database management, global state handling using React Context API, and cloud deployment on Vercel.",
+    "RemedyCare is a MERN stack wellness blog 🌿 where admins manage remedy posts  and users can read and comment . It includes JWT authentication , image uploads 📸, and is fully deployed on Vercel",
   image: blog, // replace with your actual logo variable
   tags: [
     "React",
     "Node.js",
     "Express.js",
     "MongoDB",
+    "JWT",
+    "Tailwind CSS"
   ],
   github: "https://github.com/ananyagour29/NOTE.IT",
   webapp: "https://note-it-3kpw.vercel.app/"
 },
+   
     {
-      id: 1,
-      title: "GOURFLIX- ui react",
-    description:
-  "A responsive movie streaming UI built with React.js, showcasing reusable components, dynamic rendering, and modern OTT-inspired design.",
-      image:flix,
-      tags: ["React JS"],
-      github: "https://github.com/ananyagour29/gourflix-react-ui",
-      webapp: "https://movierouter00.netlify.app/",
-    },
-    {
-  id: 2, // Change the ID according to your array sequence
+  id: 1, // Change the ID according to your array sequence
   title: "FOOD@REELS- Food Reels Platform",
-  description: "FOOD@REELS is a food discovery app where users explore food items and browse food partners' profiles, while food partners can upload and showcase their dishes",
+  description: "FOOD@REELS is a food discovery platform 🍔 where users explore food reels 🍕 and visit food partner profiles 👤, while food partners upload and showcase their dishes 🍽️ through videos.",
   image: foodreel, // make sure 'flix' is imported or defined as the image variable
   // tags: ["React JS"],
   tags: ["React.js", "Node.js", "Express.js", "MongoDB"],

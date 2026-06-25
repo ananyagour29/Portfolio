@@ -23,8 +23,7 @@ const About = () => {
           {/* Skills Heading with Typing Effect */}
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I work with technologies like React, Node.js, and MongoDB to build dynamic, responsive, and user-friendly applications.
-            I enjoy exploring new tools and approaches to enhance my projects and deliver high-quality, functional websites.
+          I am a Full Stack Developer 💻 currently pursuing (ongoing) internships in Spring Boot and React Native , along with React development . I have worked on MERN stack projects and focus on building scalable, production-ready applications .
           </p>
           {/* Resume Button */}
           {/* <a
