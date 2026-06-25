@@ -10,7 +10,7 @@ const Contact = () => {
     message: "",
   });
 
-  const phoneNumber = "91XXXXXXXXXX"; // 🔴 replace with your WhatsApp number
+  const phoneNumber = "916397106129";// 🔴 replace with your WhatsApp number
 
   const handleChange = (e) => {
     setFormData({

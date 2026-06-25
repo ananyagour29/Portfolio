@@ -53,64 +53,6 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
-
-// export const SkillsInfo = [
-//   {
-//     title: 'Frontend',
-//     skills: [
-//       // { name: 'HTML', logo: htmlLogo },
-//       { name: 'CSS', logo: cssLogo },
-//       { name: 'SASS', logo: sassLogo },
-//       { name: 'JavaScript', logo: javascriptLogo },
-//       // { name: 'React JS', logo: reactjsLogo },
-//       { name: 'Angular', logo: angularLogo },
-//       { name: 'Redux', logo: reduxLogo },
-//       { name: 'Next JS', logo: nextjsLogo },
-//       { name: 'Tailwind CSS', logo: tailwindcssLogo },
-//       { name: 'GSAP', logo: gsapLogo },
-//       { name: 'Material UI', logo: materialuiLogo },
-//       { name: 'Bootstrap', logo: bootstrapLogo },
-//     ],
-//   },
-//   {
-//     title: 'Backend',
-//     skills: [
-//       { name: 'Springboot', logo: springbootLogo },
-//       { name: 'Node JS', logo: nodejsLogo },
-//       { name: 'Express JS', logo: expressjsLogo },
-//       { name: 'MySQL', logo: mysqlLogo },
-//       { name: 'MongoDB', logo: mongodbLogo },
-//       { name: 'Firebase', logo: firebaseLogo },
-//       { name: 'PostgreSQL', logo: postgreLogo },
-//     ],
-//   },
-//   {
-//     title: 'Languages',
-//     skills: [
-//       { name: 'C', logo: cLogo },
-//       { name: 'C++', logo: cppLogo },
-//       { name: 'Java', logo: javaLogo },
-//       { name: 'Python', logo: pythonLogo },
-//       { name: 'C-Sharp', logo: csharpLogo },
-//       { name: 'JavaScript', logo: javascriptLogo },
-//       { name: 'TypeScript', logo: typescriptLogo },
-//     ],
-//   },
-//   {
-//     title: 'Tools',
-//     skills: [
-//       { name: 'Git', logo: gitLogo },
-//       { name: 'GitHub', logo: githubLogo },
-//       { name: 'VS Code', logo: vscodeLogo },
-//       { name: 'Postman', logo: postmanLogo },
-//       { name: 'Compass', logo: mcLogo },
-//       { name: 'Vercel', logo: vercelLogo },
-//       { name: 'Netlify', logo: netlifyLogo },
-//       { name: 'Figma', logo: figmaLogo },
-//     ],
-//   },
-// ];
-
   export const experiences = [
     {
       id: 0,
@@ -130,39 +72,6 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
         "MongoDb",
         "Redux",
         " Next Js",
-      ],
-    },
-    {
-      id: 1,
-      img: agcLogo,
-      role: "Fullstack Engineer",
-      company: "Agumentik Group of Companies",
-      date: "July 2023 - March 2024",
-      desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
-      skills: [
-        "ReactJS",
-        "Redux",
-        "JavaScript",
-        "Tailwind CSS",
-        "HTML",
-        "CSS",
-        "SQL",
-      ],
-    },
-    {
-      id: 2,
-      img: newtonschoolLogo,
-      role: "Frontend Intern",
-      company: "Newton School",
-      date: "September 2021 - August 2022",
-      desc: "Worked as a Frontend Developer Intern, designing and implementing scalable UI components and responsive websites using HTML, CSS, JavaScript, Bootstrap, and Material UI. Collaborated with the design team to translate wireframes and prototypes from Figma into interactive, user-friendly web pages.",
-      skills: [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Bootstrap",
-        "Figma",
-        "Material UI",
       ],
     },
   ];
@@ -195,16 +104,7 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
   ];
   
   export const projects = [
-    // {
-    //   id: 0,
-    //   title: "GitHub Profile Detective",
-    //   description:
-    //     "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-    //   image: githubdetLogo,
-    //   tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-    //   github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    //   webapp: "https://githubprofiledetective.netlify.app/",
-    // },
+
     {
   id: 0,
   title: "RemedyCare - Full Stack Wellness Platform",
